@@ -1,5 +1,4 @@
-// This file contains conceptual Go pseudocode for the NaijaConsensus network layer.
-// It is not intended to be compiled or run in this environment.
+
 
 package network
 
